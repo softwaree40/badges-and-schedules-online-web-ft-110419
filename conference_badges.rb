@@ -6,7 +6,7 @@ end
 def batch_badge_creator (attendees)
     attendees.each do |attend|
     #binding.pry
-    new?_way = "Hello, my name is #{attend}."
+    new_way = "Hello, my name is #{attend}."
    end
-   return new?_way
+   return new_way
 end
