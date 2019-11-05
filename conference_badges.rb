@@ -21,3 +21,7 @@ def assign_rooms(attendees)
   end
   return nuarray
 end
+def printer(attendees)
+  
+  
+end
